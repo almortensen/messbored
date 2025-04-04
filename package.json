@@ -1,0 +1,21 @@
+{
+  "name": "messbored",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/almortensen/messbored#readme",
+  "bugs": {
+    "url": "https://github.com/almortensen/messbored/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/almortensen/messbored.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
