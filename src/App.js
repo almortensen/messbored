@@ -1,9 +1,9 @@
-
+import Strickynote from './stickynote'
 function App() {
   return (
-    <div style={{
-      
-    }}>help</div>
+   <div id="sticknoteArea">
+      <Strickynote> </Strickynote>
+   </div>
   );
 }
 
